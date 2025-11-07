@@ -1,0 +1,5 @@
+Python Introduction:
+Python is a high-level, interpreted programming language known for its readability and simplicity. 
+It is widely used for data science, machine learning, AI, web development, automation, and scripting.
+Python has a huge ecosystem of libraries such as numpy, pandas, scikit-learn, tensorflow, pytorch etc.
+Its syntax is clean and easy to learn which makes it a preferred language for beginners and professionals.

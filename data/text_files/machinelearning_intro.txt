@@ -1,0 +1,7 @@
+Machine Learning Introduction:
+Machine Learning is a field of Artificial Intelligence that allows systems to learn patterns from data 
+without being explicitly programmed. ML models improve their performance over time as they get more data.
+It involves techniques like supervised learning, unsupervised learning, reinforcement learning etc.
+Machine learning is widely used in recommendation systems, fraud detection, natural language processing, 
+computer vision, healthcare analytics, finance modelling and more.
+Popular ML algorithms include decision trees, random forests, support vector machines, neural networks etc.

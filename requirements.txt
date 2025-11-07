@@ -1,0 +1,7 @@
+pip>=25
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+ipykernel
