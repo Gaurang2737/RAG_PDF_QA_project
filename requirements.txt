@@ -5,3 +5,9 @@ langchain-community
 pypdf
 pymupdf
 ipykernel
+sentence-transformers
+faiss-cpu
+chromadb
+scikit-learn
+langchain_text_splitters
+pathlib
